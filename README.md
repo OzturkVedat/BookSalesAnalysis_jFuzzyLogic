@@ -40,7 +40,7 @@ BookSalesAnalysis_jFuzzyLogic/
 └── README.md        
  ```
 
-Scrrenshot of Fuzzy Control Language used in this repository:
+Screenshot of Fuzzy Control Language used in this repository:
 
 ![fLogicSS](./assets/fcl_ss.png)
 
