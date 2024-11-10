@@ -11,6 +11,7 @@ Building an book sales predictor model with Fuzzy Logic, using jFuzzyLogic for f
 - Python folder contains files we used for analyzing the input parameters, and their relation to output variable.
 - Java files in Java/src folder is for a basic console app to test out the model's prediction reliability.
 
+![chartSS](./assets/chart.png)
 
 ## Pre-requisites
 - **Java JDK**
@@ -25,6 +26,7 @@ Building an book sales predictor model with Fuzzy Logic, using jFuzzyLogic for f
 ### Project Structure
 ```bash
 BookSalesAnalysis_jFuzzyLogic/
+├── assets/
 ├── java/
 │       ├── bin/
 │       └── src/
@@ -35,6 +37,8 @@ BookSalesAnalysis_jFuzzyLogic/
 ├── .gitignore
 └── README.md        
  ```
+
+![fLogicSS](./assets/fcl_ss.png)
 
 ## Installation
 1. Clone the repository:
